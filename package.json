@@ -24,10 +24,10 @@
     "wrapper",
     "WebView"
   ],
-  "author": "socrypto",
+  "author": "rodrigobaptista-q4inc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/socrypto/react-native-highcharts-wrapper/issues"
+    "url": "https://github.com/rodrigobaptista-q4inc/react-native-highcharts-wrapper/issues"
   },
-  "homepage": "https://github.com/socrypto/react-native-highcharts-wrapper#readme"
+  "homepage": "https://github.com/rodrigobaptista-q4inc/react-native-highcharts-wrapper#readme"
 }
